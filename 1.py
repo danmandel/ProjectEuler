@@ -1,6 +1,7 @@
 import time
 start_time = time.time()
 
+# Lists all multiples of a or b below x.
 def SumOfMultiples(a,b,x):
     result = 0
     for i in range(x):
@@ -10,3 +11,4 @@ def SumOfMultiples(a,b,x):
 
 print (SumOfMultiples(3,5,1000))
 print ("%s seconds" % (time.time() - start_time))
+
