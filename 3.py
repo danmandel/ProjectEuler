@@ -1,5 +1,5 @@
 # Finds the largest prime factor of n
-# Main code from stackoverflow
+# Main code from 'http://stackoverflow.com/questions/14138053/project-euler-3-with-python-most-efficient-method'
 # Does not work when n is a square
 
 import time
