@@ -1,6 +1,6 @@
 # Finds the largest prime factor of n
 # Main code from stackoverflow
-# Does not work for squares
+# Does not work when n is a square
 
 import time
  
